@@ -12,11 +12,11 @@
 
 ~Bhagyashri~
 
-..1
+..
 java 
 C 
 C++
-
+*************
 
 ..+ 
 python 
@@ -59,3 +59,8 @@ pwd | Checking present working directory
 cp | copy the files
 mv | move the files
 ls | list the content
+
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+-----------------
+
+[![image](https://user-images.githubusercontent.com/88032966/233264836-4bea67a0-7412-48fd-855a-cce5c61788f2.png)](https://www.youtube.com/watch?v=HcOc7P5BMi4)
